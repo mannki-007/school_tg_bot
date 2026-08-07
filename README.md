@@ -15,7 +15,7 @@
 
   ![Меню бота](https://github.com/user-attachments/assets/f1c61e23-2e76-4ba1-8a5e-659347150051)
 
-    
+    chjbnk,l.;/
     
     
 
