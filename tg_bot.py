@@ -30,7 +30,7 @@ def log_command(func):
         return func(message, *args, **kwargs)
     return wrapper
 
-TOKEN = '8853191354:AAFryzSmYLw2Ushho4UK9cQqUTiESDhc50M'
+TOKEN = ''
 
 
 
